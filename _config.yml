@@ -22,7 +22,7 @@ title: Warner's Website
 email: vaughanw@unc.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This website is a personal school project for Dr. Izzi Hinks's class, "Introduction to Programming". It is built using Jekyll, a static site generator, and hosted on GitHub Pages."
-baseurl: "custom-path" # the subpath of your site, e.g. /blog
+baseurl: "comp110-analysis" # the subpath of your site, e.g. /blog
 url: "wgvaughan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
