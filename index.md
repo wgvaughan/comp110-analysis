@@ -4,7 +4,7 @@ layout: default
 ---
 
 # COMP 110 EX09: Data Analysis for Continuous Improvement
-<img src="c<omp110-analysis>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 ## Idea
 This project explores whether students' perceptions of pre-lecture materials are associated with their self-reported understandinf of course content. Although these resources are not currently implemented, the data captsures how helpful students believe they would be.
@@ -26,22 +26,20 @@ Key variables analyzed included:
 
 ### 1. Trend between pre-lecture videos and understanding.
 *(Line Graph)*
-<img src="<comp110-analysis>/static/imgs/output.png" alt="Trend between pre-lecture videos and understanding."  width="500"/>
+<img src="/static/imgs/output.png" alt="Trend between pre-lecture videos and understanding."  width="500"/>
 
 ### 2. Relationship between pre-lecture videos and understanding.
 *(Scatterplot)*
-<img src="c<omp110-analysis>/static/imgs/output2.png" alt="Relationship between pre-lecture videos and understanding."  width="500"/>
+<img src="/static/imgs/output2.png" alt="Relationship between pre-lecture videos and understanding."  width="500"/>
 
 ### 3. Comparison of using own examples and understanding.
 *(Bar Plot)*
-<img src="<comp110-analysis>/static/imgs/output3.png" alt="Relationship between pre-lecture videos and understanding."  width="500"/>
+<img src="/static/imgs/output3.png" alt="Relationship between pre-lecture videos and understanding."  width="500"/>
 
 ---
 
 ## Conclusion
-The analysis suggests a small positive relationship between perceived usefulness of pre-lecture materials and student understanding. However, the relationship is not strong or consistent across all variables, making the results inconclusive.
-
-This indicates that while pre-lecture materials may be beneficial, they are likely only one of several factors influencing student understanding.
+The analysis suggests a small positive relationship between perceived usefulness of pre-lecture materials and student understanding. However, the relationship is not strong or consistent across all variables, making the results inconclusive. This indicates that while pre-lecture materials may be beneficial, they are likely only one of several factors influencing student understanding.
 
 A limitation of this analysis is that it relies on self-reported perceptions rather than actual engagement or performance data. Future improvements could include tracking real usage of pre-lecture materials and measuring learning outcomes after implementation.
 
